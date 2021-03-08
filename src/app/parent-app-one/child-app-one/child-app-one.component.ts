@@ -7,7 +7,7 @@ import { Component, OnInit, Input } from '@angular/core';
 })
 export class ChildAppOneComponent implements OnInit {
 
-  @Input() the_text = 'child stuff'
+  @Input() the_text = ''
 
   constructor() { }
 

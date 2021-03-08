@@ -12,7 +12,7 @@ export class ParentAppOneComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  the_text = 'blue'
+  the_text = ''
 
 
 
